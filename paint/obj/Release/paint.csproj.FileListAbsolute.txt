@@ -1,0 +1,8 @@
+c:\users\leon\documents\visual studio 2012\Projects\paint\paint\bin\Release\paint.exe.config
+c:\users\leon\documents\visual studio 2012\Projects\paint\paint\bin\Release\paint.exe
+c:\users\leon\documents\visual studio 2012\Projects\paint\paint\bin\Release\paint.pdb
+c:\users\leon\documents\visual studio 2012\Projects\paint\paint\obj\Release\paint.Form1.resources
+c:\users\leon\documents\visual studio 2012\Projects\paint\paint\obj\Release\paint.Properties.Resources.resources
+c:\users\leon\documents\visual studio 2012\Projects\paint\paint\obj\Release\paint.csproj.GenerateResource.Cache
+c:\users\leon\documents\visual studio 2012\Projects\paint\paint\obj\Release\paint.exe
+c:\users\leon\documents\visual studio 2012\Projects\paint\paint\obj\Release\paint.pdb
